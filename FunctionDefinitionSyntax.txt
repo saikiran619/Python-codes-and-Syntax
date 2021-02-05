@@ -1,0 +1,8 @@
+Q1. Write a syntax for defining a function?
+Ans.
+Syntax:
+def fun_name(Parameter1,Parameter2…Parameter n):
+   statement1
+   statement2…
+   statement n 
+   return[expression]
